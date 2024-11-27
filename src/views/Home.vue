@@ -3,9 +3,7 @@
   <div>
     <h1>Home</h1>
     <p>Bienvenido a la página de inicio.</p>
-    <p>hola xd</p>
-    <p>hola xd</p>
-    <p>hola xd</p>
+
     <p>hola xd</p>
 
   </div>
